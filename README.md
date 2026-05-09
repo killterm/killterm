@@ -11,3 +11,4 @@
 - ~~[BrebeMan](https://github.com/killterm/Unity-Localization-BrebeMan)~~ [최신 버전 대응](https://github.com/Sitda-96/BrebeMan_Kor)
 - [Lost Wiki: Kozlovka](https://github.com/killterm/Localization-LostWiki)
 - [Drill Bird](https://github.com/killterm/Localization-DrillBird)
+- [I Have No Change (Playtest)](https://github.com/killterm/Localization-IHaveNoChange-Playtest)
