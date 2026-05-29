@@ -1,5 +1,11 @@
 # 한국어 패치
 
+## 공식 번역 | [Official Localizations](https://en.wikipedia.org/wiki/Video_game_localization)
+
+- [Endoparasitic](https://store.steampowered.com/app/2124780/Endoparasitic/)
+
+## 유저 번역 | [Fan Translations](https://en.wikipedia.org/wiki/Fan_translation_of_video_games)
+
 - [Impulsion](https://github.com/killterm/Unreal-Localization-Impulsion)
 - [Lamentum](https://github.com/killterm/Unity-Localization-Lamentum)
 - ~~[The Strongest TOFU](https://github.com/killterm/Unity-Localization-TheStrongestTOFU)~~ 공식 업데이트
