@@ -18,4 +18,4 @@
 - [Lost Wiki: Kozlovka](https://github.com/killterm/Localization-LostWiki)
 - [Drill Bird](https://github.com/killterm/Localization-DrillBird)
 - [I Have No Change (Playtest)](https://github.com/killterm/Localization-IHaveNoChange-Playtest)
-- [Gothic 1 Remake](https://github.com/killterm/Localization-Gothic1Remake)
+- [Gothic 1 Remake](https://www.nexusmods.com/gothic1remake/mods/69)
