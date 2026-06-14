@@ -20,3 +20,4 @@
 - [I Have No Change (Playtest)](https://github.com/killterm/Localization-IHaveNoChange-Playtest)
 - [Gothic 1 Remake](https://www.nexusmods.com/gothic1remake/mods/69)
 - [Wizardry: Proving Grounds of the Mad Overlord](https://www.nexusmods.com/wizardryprovinggroundsofthemadoverlord/mods/2)
+- [KuloNiku: Bowl Up!](https://github.com/killterm/Localization-KuloNikuBowlUp)
