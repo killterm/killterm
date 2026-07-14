@@ -21,4 +21,5 @@
 - [Gothic 1 Remake](https://www.nexusmods.com/gothic1remake/mods/69)
 - [Wizardry: Proving Grounds of the Mad Overlord](https://www.nexusmods.com/wizardryprovinggroundsofthemadoverlord/mods/2)
 - [KuloNiku: Bowl Up!](https://github.com/killterm/Localization-KuloNikuBowlUp)
+- [Rift Wizard 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3756335146)
 - [Rift Wizard 3](https://steamcommunity.com/sharedfiles/filedetails/?id=3753608877)
