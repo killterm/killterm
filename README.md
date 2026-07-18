@@ -23,3 +23,4 @@
 - [KuloNiku: Bowl Up!](https://github.com/killterm/Localization-KuloNikuBowlUp)
 - [Rift Wizard 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3756335146)
 - [Rift Wizard 3](https://steamcommunity.com/sharedfiles/filedetails/?id=3753608877)
+- [Veritas Tales: Witch of the Dark Castle](https://github.com/killterm/Localization-VeritasTalesWitchOfTheDarkCastle)
