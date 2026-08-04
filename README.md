@@ -25,3 +25,4 @@
 - [Rift Wizard 3](https://steamcommunity.com/sharedfiles/filedetails/?id=3753608877)
 - [Veritas Tales: Witch of the Dark Castle](https://github.com/killterm/Localization-VeritasTalesWitchOfTheDarkCastle)
 - [Bladesong](https://www.nexusmods.com/bladesong/mods/2)
+- [Leafy Corner](https://github.com/killterm/Localization-LeafyCorner)
