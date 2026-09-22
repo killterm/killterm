@@ -3,6 +3,7 @@
 ## 공식 번역 | [Official Localizations](https://en.wikipedia.org/wiki/Video_game_localization)
 
 - [Endoparasitic](https://store.steampowered.com/app/2124780/Endoparasitic/)
+- [Map Map](https://store.steampowered.com/app/2702260/Map_Map/)
 
 ## 유저 번역 | [Fan Translations](https://en.wikipedia.org/wiki/Fan_translation_of_video_games)
 
@@ -26,3 +27,4 @@
 - [Veritas Tales: Witch of the Dark Castle](https://github.com/killterm/Localization-VeritasTalesWitchOfTheDarkCastle)
 - [Bladesong](https://www.nexusmods.com/bladesong/mods/2)
 - [Leafy Corner](https://github.com/killterm/Localization-LeafyCorner)
+- [The Bird of the North](https://github.com/killterm/Localization-TheBirdOfTheNorth)
