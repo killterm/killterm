@@ -28,3 +28,4 @@
 - [Bladesong](https://www.nexusmods.com/bladesong/mods/2)
 - [Leafy Corner](https://github.com/killterm/Localization-LeafyCorner)
 - [The Bird of the North](https://github.com/killterm/Localization-TheBirdOfTheNorth)
+- [Normal Golf Game](https://github.com/killterm/Localization-NormalGolfGame)
